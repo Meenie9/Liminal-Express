@@ -238,13 +238,13 @@
 			]
 		},
 		{
-			"name": "Wallets (V1)",
+			"name": "Wallets v1",
 			"item": [
 				{
 					"name": "Wallets Creation",
 					"item": [
 						{
-							"name": "Create a hot wallet (V1)",
+							"name": "Create a hot wallet v1",
 							"request": {
 								"auth": {
 									"type": "basic",
@@ -3402,10 +3402,10 @@
 			]
 		},
 		{
-			"name": "Wallets (V2)",
+			"name": "Wallets v2",
 			"item": [
 				{
-					"name": "Create a hot wallet (V2)",
+					"name": "Create a hot wallet v2",
 					"request": {
 						"auth": {
 							"type": "basic",
